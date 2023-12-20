@@ -1,4 +1,4 @@
-# Intelligent Systems (2023)
+# Sistemas Inteligentes / Intelligent Systems (2023)
 
 Compilado de programas, anotações e atividades da disciplina de SEL0421-Sistemas Inteligentes oferecida pela EESC-USP. Todos os programas desenvolvidos na disciplina foram feitos em linguagem Python ou no Matlab e possuem apenas fins educacionais.
 
